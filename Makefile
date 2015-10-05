@@ -1,0 +1,2 @@
+all:
+	g++ -o calibration -I/usr/local/include/opencv2 -I/usr/local/include -L/usr/local/lib calibration.cpp -lrt -lpthread -lopencv_core -lopencv_calib3d -lopencv_contrib -lopencv_features2d -lopencv_highgui -lopencv_imgproc -lopencv_ocl -lopencv_imgcodecs -lopencv_videoio
