@@ -6,5 +6,5 @@ Before running this program, ensure the directory containing the OpenCV librarie
 
 You might try adding the following line to .bashrc :
 
-export LD_LIBRARY_PATH="/usr/lib32;/usr/local/lib"
+export LD_LIBRARY_PATH="$LD_LIBRARY_PATH;/usr/local/lib"
 
