@@ -1,6 +1,6 @@
 # calibration
 
-[ Setting Up You Run-time Environment ] 
+[ Setting Up Your Run-time Environment ] 
 
 Before running this program, ensure the directory containing the OpenCV libraries are added to LD_LIBRARY_PATH.
 
